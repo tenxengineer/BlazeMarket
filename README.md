@@ -21,7 +21,7 @@ These instructions will help you set up BlazeMarket on your local machine for de
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/BlazeMarket.git
+git clone https://github.com/tenxengineer/BlazeMarket.git
 ```
 
 2. Navigate to the project directory:
